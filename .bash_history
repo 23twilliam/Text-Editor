@@ -44,3 +44,5 @@ make
 make
 ./kilo
 reset
+make
+./kilo
